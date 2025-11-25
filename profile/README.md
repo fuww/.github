@@ -4,7 +4,7 @@
 
 Welcome to FashionUnited's GitHub organization. We are the leading B2B fashion business network, connecting fashion professionals worldwide through our comprehensive platform of industry news, job boards, and business tools.
 
-## 🌍 About FashionUnited
+## About FashionUnited
 
 FashionUnited is the world's largest independent fashion business network, serving over 1 million fashion professionals across 30+ countries. Since 2003, we've been empowering the fashion industry with:
 
@@ -13,11 +13,11 @@ FashionUnited is the world's largest independent fashion business network, servi
 - **Business Tools**: Essential resources for fashion professionals and companies
 - **Global Network**: Connecting brands, retailers, suppliers, and service providers
 
-## 🚀 Our Mission
+## Our Mission
 
 To accelerate the fashion industry's digital transformation by providing the tools, insights, and connections that fashion professionals need to succeed in an evolving marketplace.
 
-## 💼 Our Solutions
+## Our Solutions
 
 ### For Fashion Professionals
 - Access to global fashion job opportunities
@@ -31,7 +31,7 @@ To accelerate the fashion industry's digital transformation by providing the too
 - Industry benchmarking and market analysis
 - B2B networking and partnership opportunities
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 Our platform leverages modern technologies to deliver a seamless experience:
 
@@ -40,7 +40,7 @@ Our platform leverages modern technologies to deliver a seamless experience:
 - **Data**: Advanced analytics and machine learning for insights with PostgreSQL and Bigquery
 - **API**: GraphQL and RESTful services enabling integrations and partnerships
 
-## 📊 Open Source Projects
+## Open Source Projects
 
 We believe in giving back to the community. Here you'll find:
 
@@ -48,13 +48,13 @@ We believe in giving back to the community. Here you'll find:
 - Sample integrations and API examples
 - Community-driven fashion industry standards and specifications
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the fashion tech community! Whether you're fixing bugs, adding features, or improving documentation, your input helps make fashion technology better for everyone.
 
 Please read our contribution guidelines in individual repositories before submitting pull requests.
 
-## 📚 Resources
+## Resources
 
 - [FashionUnited Platform](https://fashionunited.com) - Our main platform
 - [Fashion Industry News](https://fashionunited.com/just-in) - Latest industry updates
@@ -66,7 +66,7 @@ Please read our contribution guidelines in individual repositories before submit
 - [Fashion Events](https://fashionunited.com/events) - Industry events
 - [Fashion Trends](https://fashionunited.com/trends) - Industry trends
 
-## 🔗 Connect With Us
+## Connect With Us
 
 - **Website**: [fashionunited.com](https://fashionunited.com)
 - **LinkedIn**: [FashionUnited](https://linkedin.com/company/fashionunited)
